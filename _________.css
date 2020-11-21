@@ -1,0 +1,1405 @@
+/*
+	@name _________
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page____________ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 3718px;
+}
+
+#_bg_____________ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 3718px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_42 {
+	top: 3371px;
+	left: 0px;
+	width: 375px;
+	height: 347px;
+	background:rgba(0,0,0,1);
+}
+
+
+#________________ {
+	top: 2733px;
+	left: 34px;
+	width: 300px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#fq_a {
+	top: 2702px;
+	left: 35px;
+	width: 300px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#image_29 {
+	top: 284px;
+	left: 0px;
+	width: 375px;
+	height: 375px;
+}
+
+
+#oe {
+	top: 37px;
+	left: 149px;
+	width: 80px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Noto Serif JP;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#rectangle_40 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 28px;
+	background:rgba(0,0,0,1);
+}
+
+
+#______________________ {
+	top: 0px;
+	left: -2px;
+	width: 375px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: center;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+#group_130 {
+	top: 141px;
+	left: 72px;
+	width: 281px;
+	height: 18px;
+}
+
+#_________________ek1 {
+	top: 0px;
+	left: 27px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#__ {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#__________________ {
+	top: 86px;
+	left: 37px;
+	width: 300px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#_____________ {
+	top: 728px;
+	left: 34px;
+	width: 300px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#_________________ {
+	top: 1519px;
+	left: 34px;
+	width: 300px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#_________ {
+	top: 701px;
+	left: 35px;
+	width: 300px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#___________ek3 {
+	top: 1488px;
+	left: 35px;
+	width: 300px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#______________ {
+	top: 1986px;
+	left: 34px;
+	width: 300px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#______ {
+	top: 1955px;
+	left: 35px;
+	width: 300px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#__________________ek1 {
+	top: 1155px;
+	left: 34px;
+	width: 300px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#________ {
+	top: 1129px;
+	left: 35px;
+	width: 300px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+#group_124 {
+	top: 209px;
+	left: 72px;
+	width: 281px;
+	height: 18px;
+}
+
+#___ek1 {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#___________ek4 {
+	top: 0px;
+	left: 27px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+#group_123 {
+	top: 175px;
+	left: 72px;
+	width: 281px;
+	height: 18px;
+}
+
+#___ek2 {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#______________ek1 {
+	top: 0px;
+	left: 27px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+#group_125 {
+	top: 243px;
+	left: 72px;
+	width: 281px;
+	height: 18px;
+}
+
+#___ek3 {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#_______________ {
+	top: 0px;
+	left: 27px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#______________ek2 {
+	top: 887px;
+	left: 62px;
+	width: 88px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#_3500___ {
+	top: 980px;
+	left: 71px;
+	width: 70px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#_3500____ek1 {
+	top: 980px;
+	left: 240px;
+	width: 70px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#___________ek5 {
+	top: 887px;
+	left: 231px;
+	width: 88px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#________aga__________ {
+	top: 932px;
+	left: 37px;
+	width: 138px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#000000;
+}
+
+#group_137 {
+	top: 1216px;
+	left: 21px;
+	width: 26px;
+	height: 26px;
+}
+
+#ellipse_18 {
+	top: 0px;
+	left: 0px;
+	width: 26px;
+	height: 26px;
+	-ms-border-radius: 13px / 13px;
+	-o-border-radius: 13px / 13px;
+	-moz-border-radius: 13px / 13px;
+	-webkit-border-radius: 13px / 13px;
+	border-radius: 13px / 13px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_1 {
+	top: 0px;
+	left: -2px;
+	width: 26px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#__________ek1 {
+	top: 1027px;
+	left: 206px;
+	width: 138px;
+	height: 17.5px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 9px;
+	text-align: right;
+	line-height: 9px;
+	color:#000000;
+}
+
+
+#_______ {
+	top: 1014px;
+	left: 206px;
+	width: 138px;
+	height: 17.5px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 9px;
+	text-align: right;
+	line-height: 9px;
+	color:#000000;
+}
+
+
+#__aga_________________ {
+	top: 109px;
+	left: 37px;
+	width: 215px;
+	height: 17.5px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 9px;
+	text-align: left;
+	line-height: 9px;
+	color:#000000;
+}
+
+
+#_______________________ {
+	top: 934px;
+	left: 206px;
+	width: 138px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#000000;
+}
+
+#group_131 {
+	top: 287px;
+	left: 110px;
+	width: 155px;
+	height: 28px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 155px;
+	height: 28px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(7.2205701470375,146.61887168884,247.56250709295,1);
+}
+
+
+#________ek1 {
+	top: 0px;
+	left: -2px;
+	width: 155px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#___100________ {
+	top: 3157px;
+	left: 83px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#________________________ {
+	top: 3094px;
+	left: 37px;
+	width: 300px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#___________ek6 {
+	top: 3263px;
+	left: 83px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#______________ek3 {
+	top: 3210px;
+	left: 83px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+#group_148 {
+	top: 3311px;
+	left: 110px;
+	width: 155px;
+	height: 28px;
+}
+
+#rectangle_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 155px;
+	height: 28px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(7.2205701470375,146.61887168884,247.56250709295,1);
+}
+
+
+#________ek2 {
+	top: 0px;
+	left: -2px;
+	width: 155px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+#group_136 {
+	top: 1044px;
+	left: 110px;
+	width: 155px;
+	height: 28px;
+}
+
+#rectangle_4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 157px;
+	height: 30px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #0793f8;
+	background:rgba(255,255,255,1);
+}
+
+
+#_________ek1 {
+	top: 0px;
+	left: -2px;
+	width: 155px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#0792F7;
+}
+
+#group_142 {
+	top: 1390px;
+	left: 87px;
+	width: 201px;
+	height: 28px;
+}
+#group_141 {
+	top: 0px;
+	left: 0px;
+	width: 201px;
+	height: 28px;
+}
+
+#rectangle_4_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 203px;
+	height: 30px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #0793f8;
+	background:rgba(255,255,255,1);
+}
+
+
+#______________ek4 {
+	top: 0px;
+	left: -2px;
+	width: 201px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#0792F7;
+}
+
+#group_143 {
+	top: 2602px;
+	left: 87px;
+	width: 201px;
+	height: 28px;
+}
+#group_141_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 201px;
+	height: 28px;
+}
+
+#rectangle_4_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 203px;
+	height: 30px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #0793f8;
+	background:rgba(255,255,255,1);
+}
+
+
+#___________ {
+	top: 0px;
+	left: -2px;
+	width: 201px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#0792F7;
+}
+
+
+#image_30 {
+	top: 791px;
+	left: 87px;
+	width: 43px;
+	height: 86px;
+}
+
+
+#image_31 {
+	top: 791px;
+	left: 256px;
+	width: 43px;
+	height: 86px;
+}
+
+
+#______________________________________ {
+	top: 1593px;
+	left: 90px;
+	width: 231px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#___________10___________ {
+	top: 1216px;
+	left: 61px;
+	width: 260px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#000000;
+}
+
+#group_138 {
+	top: 1275px;
+	left: 21px;
+	width: 26px;
+	height: 26px;
+}
+
+#ellipse_18_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 26px;
+	height: 26px;
+	-ms-border-radius: 13px / 13px;
+	-o-border-radius: 13px / 13px;
+	-moz-border-radius: 13px / 13px;
+	-webkit-border-radius: 13px / 13px;
+	border-radius: 13px / 13px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_2 {
+	top: 0px;
+	left: -2px;
+	width: 26px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+#group_139 {
+	top: 1334px;
+	left: 21px;
+	width: 26px;
+	height: 26px;
+}
+
+#ellipse_18_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 26px;
+	height: 26px;
+	-ms-border-radius: 13px / 13px;
+	-o-border-radius: 13px / 13px;
+	-moz-border-radius: 13px / 13px;
+	-webkit-border-radius: 13px / 13px;
+	border-radius: 13px / 13px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_3 {
+	top: 0px;
+	left: -2px;
+	width: 26px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#______________________________ {
+	top: 1335px;
+	left: 61px;
+	width: 260px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#image_38 {
+	top: 2428px;
+	left: 80px;
+	width: 214px;
+	height: 150px;
+}
+
+
+#____________25___ {
+	top: 2164px;
+	left: 66px;
+	width: 90px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#_______________31___ {
+	top: 2164px;
+	left: 221px;
+	width: 90px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#000000;
+}
+
+#group_140 {
+	top: 1275px;
+	left: 61px;
+	width: 260px;
+	height: 48px;
+}
+
+#____________________ {
+	top: 0px;
+	left: 0px;
+	width: 260px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#___________________________________________ {
+	top: 22px;
+	left: 0px;
+	width: 260px;
+	height: 32.5px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 9px;
+	text-align: left;
+	line-height: 9px;
+	color:#000000;
+}
+
+
+#_____ {
+	top: 1569px;
+	left: 90px;
+	width: 231px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#000000;
+}
+
+
+#image_32 {
+	top: 1569px;
+	left: 29px;
+	width: 51px;
+	height: 48px;
+}
+
+#group_134 {
+	top: 1654px;
+	left: 28px;
+	width: 293px;
+	height: 61px;
+}
+
+#________________________________aga______ {
+	top: 25px;
+	left: 62px;
+	width: 231px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#________ek3 {
+	top: 1px;
+	left: 62px;
+	width: 231px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#000000;
+}
+
+
+#image_33 {
+	top: 0px;
+	left: 0px;
+	width: 52px;
+	height: 49px;
+}
+
+#group_132 {
+	top: 1825px;
+	left: 22px;
+	width: 299px;
+	height: 60px;
+}
+
+#_______________________________________ek1 {
+	top: 24px;
+	left: 68px;
+	width: 231px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#_________ek2 {
+	top: 0px;
+	left: 68px;
+	width: 231px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#000000;
+}
+
+
+#image_34 {
+	top: 4px;
+	left: 0px;
+	width: 65px;
+	height: 46px;
+}
+
+#group_133 {
+	top: 1740px;
+	left: 21px;
+	width: 300px;
+	height: 60px;
+}
+
+#_________aga________________ {
+	top: 24px;
+	left: 69px;
+	width: 231px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#________ek4 {
+	top: 0px;
+	left: 69px;
+	width: 231px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#000000;
+}
+
+
+#image_35 {
+	top: 0px;
+	left: 0px;
+	width: 66px;
+	height: 50px;
+}
+
+
+#image_36 {
+	top: 2032px;
+	left: 66px;
+	width: 90px;
+	height: 120px;
+}
+
+
+#image_37 {
+	top: 2032px;
+	left: 221px;
+	width: 90px;
+	height: 120px;
+}
+
+
+#__________________ek2 {
+	top: 2294px;
+	left: 34px;
+	width: 300px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#__________ek2 {
+	top: 2263px;
+	left: 35px;
+	width: 300px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 12px;
+	color:#000000;
+}
+
+
+#oe_____________________________________________________________________ {
+	top: 2340px;
+	left: 37px;
+	width: 300px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#rectangle_41 {
+	top: 2777px;
+	left: 14px;
+	width: 342px;
+	height: 228px;
+	background:rgba(196.00000351667,196.00000351667,196.00000351667,1);
+}
+
+
+#____ {
+	top: 2865px;
+	left: 99px;
+	width: 254px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#________________ek1 {
+	top: 2493px;
+	left: 132px;
+	width: 144px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#000000;
+}
+
+
+#______________ek5 {
+	top: 3526px;
+	left: 98px;
+	width: 255px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#____________ek1 {
+	top: 3666px;
+	left: 50px;
+	width: 120px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#__2020_oe_inc___all_rights_reserved_ {
+	top: 3690px;
+	left: 50px;
+	width: 279px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#FFFFFF;
+}
+
+
+#______ek1 {
+	top: 3666px;
+	left: 185px;
+	width: 120px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#___ek4 {
+	top: 3666px;
+	left: 164px;
+	width: 16px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#______ek2 {
+	top: 3403px;
+	left: 98px;
+	width: 255px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#________ek5 {
+	top: 3444px;
+	left: 98px;
+	width: 255px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#_______ek1 {
+	top: 3485px;
+	left: 98px;
+	width: 255px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Meiryo UI;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#FFFFFF;
+}
+
+
+#line_23 {
+	top: 3583px;
+	left: 0px;
+	width: 375px;
+	height: 0px;
+}
+
+
+#image_39 {
+	top: 3615px;
+	left: 236px;
+	width: 35px;
+	height: 35px;
+}
+
+
+#image_41 {
+	top: 3619px;
+	left: 184px;
+	width: 31px;
+	height: 31px;
+}
+
+
+#image_42 {
+	top: 3259px;
+	left: 37px;
+	width: 30px;
+	height: 30px;
+}
+
+
+#image_43 {
+	top: 3200px;
+	left: 33px;
+	width: 36px;
+	height: 37px;
+}
+
+
+#image_44 {
+	top: 3152px;
+	left: 33px;
+	width: 34px;
+	height: 34px;
+}
+
+
+#image_40 {
+	top: 3619px;
+	left: 132px;
+	width: 31px;
+	height: 31px;
+}
+
+
+
+/* Add your custom CSS here */
